@@ -1,3 +1,3 @@
 # birthday-card
 
-https://sillyscript.github.io/birthday-card/
+https://prayasdev.github.io/birthday-card/
